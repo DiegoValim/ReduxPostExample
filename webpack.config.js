@@ -25,6 +25,6 @@ module.exports = {
     host: process.env.IP,
     //https: true,
     port: process.env.PORT,
-    "public": "music-class-diegovalim.c9users.io" //no trailing slash
+    "public": "redux-post-example-diegovalim.c9users.io" //no trailing slash
   }
 };
